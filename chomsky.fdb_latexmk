@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1674065372 "/Users/spencerhirsch/Documents/GitHub/formal_language/chomsky.tex" "chomsky.pdf" "chomsky" 1674065373
-  "/Users/spencerhirsch/Documents/GitHub/formal_language/chomsky.tex" 1674065372 1029 321ea34fff0c686e203597d13bede5b5 ""
+["pdflatex"] 1674088466 "/Users/spencerhirsch/Documents/GitHub/formal_language/chomsky.tex" "chomsky.pdf" "chomsky" 1674088467
+  "/Users/spencerhirsch/Documents/GitHub/formal_language/chomsky.tex" 1674088466 1258 55442f7e98630f122ba5e7b4ce8475aa ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -28,6 +28,7 @@
   "/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty" 1576625273 7734 b98cbb34c81f667027c1e3ebdbfce34b ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty" 1576625223 8371 9d55b8bd010bc717624922fb3477d92e ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
+  "/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty" 1572645307 1057 525c2192b5febbd8c1f662c9468335bb ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty" 1575499628 8356 7bbb2c2373aa810be568c29e333da8ed ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty" 1576625065 31769 002a487f55041f8e805cfbf6385ffd97 ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty" 1576878844 5412 d5a2436094cd7be85769db90f29250a6 ""
@@ -42,6 +43,7 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty" 1636758526 3034 3bfb87122e6fa8758225c0dd3cbaceba ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty" 1636758526 2462 754d6b31b2ab5a09bb72c348ace2ec75 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo" 1636758526 8448 96f18c76bf608a36ee6fbf021ac1dd32 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty" 1622581934 2671 4de6781a30211fe0ea4c672e4a2a8166 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty" 1580250785 17914 4c28a13fc3d975e6e81c9bea1d697276 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def" 1645564115 49029 7c9e5115b2217efbeb7828ac0d1bf1a0 ""
@@ -59,9 +61,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1674061236 2826446 c95caf68c56b67e62bd3e0f4499af8ae ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "chomsky.aux" 1674065373 1009 0a6da7cda12e0f25dd8e94260ad4e833 "pdflatex"
-  "chomsky.out" 1674065373 292 ab59aa5440db1a66496f65573a2d8866 "pdflatex"
-  "chomsky.tex" 1674065372 1029 321ea34fff0c686e203597d13bede5b5 ""
+  "chomsky.aux" 1674088467 1009 0a6da7cda12e0f25dd8e94260ad4e833 "pdflatex"
+  "chomsky.out" 1674088467 292 ab59aa5440db1a66496f65573a2d8866 "pdflatex"
+  "chomsky.tex" 1674088466 1258 55442f7e98630f122ba5e7b4ce8475aa ""
   (generated)
   "chomsky.aux"
   "chomsky.log"
