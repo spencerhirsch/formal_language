@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1674103373 "/Users/spencerhirsch/Documents/GitHub/formal_language/chomsky.tex" "chomsky.pdf" "chomsky" 1674103373
-  "/Users/spencerhirsch/Documents/GitHub/formal_language/chomsky.tex" 1674103373 2428 5b3f47f314f608d76668cd0b34c90fd8 ""
+["pdflatex"] 1674705578 "/Users/spencerhirsch/Documents/GitHub/formal_language/chomsky.tex" "chomsky.pdf" "chomsky" 1674705578
+  "/Users/spencerhirsch/Documents/GitHub/formal_language/chomsky.tex" 1674705577 2707 0d37a12b9aad52cc57b0c0a432841e42 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -63,9 +63,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1674061236 2826446 c95caf68c56b67e62bd3e0f4499af8ae ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "chomsky.aux" 1674103373 1525 c6a52215b99d155514956478c9fe7de2 "pdflatex"
-  "chomsky.out" 1674103373 972 5e1372364886f8fed8dc0bdca097c822 "pdflatex"
-  "chomsky.tex" 1674103373 2428 5b3f47f314f608d76668cd0b34c90fd8 ""
+  "chomsky.aux" 1674705578 1525 c6a52215b99d155514956478c9fe7de2 "pdflatex"
+  "chomsky.out" 1674705578 972 5e1372364886f8fed8dc0bdca097c822 "pdflatex"
+  "chomsky.tex" 1674705577 2707 0d37a12b9aad52cc57b0c0a432841e42 ""
   (generated)
   "chomsky.aux"
   "chomsky.log"
