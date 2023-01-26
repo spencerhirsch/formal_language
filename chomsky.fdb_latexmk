@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1674746490 "/home/lacka/repos/formal_language/chomsky.tex" "chomsky.pdf" "chomsky" 1674746490
+["pdflatex"] 1674764790 "/home/lacka/repos/formal_language/chomsky.tex" "chomsky.pdf" "chomsky" 1674764790
   "/etc/texmf/web2c/texmf.cnf" 1674451667 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/lacka/repos/formal_language/chomsky.tex" 1674746489 4639 e2902fc7711fe60f848e06f9e0079ad7 ""
+  "/home/lacka/repos/formal_language/chomsky.tex" 1674764789 4665 74d105e72864126347c560df0f2d4ff1 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -66,9 +66,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1674451704 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1674451732 2799164 589e1b7ba37e844d1d649930c2e0a324 ""
-  "chomsky.aux" 1674746490 1525 bf21e7d353a81c51a53a2beaa3d238cd "pdflatex"
-  "chomsky.out" 1674746490 972 5e1372364886f8fed8dc0bdca097c822 "pdflatex"
-  "chomsky.tex" 1674746489 4639 e2902fc7711fe60f848e06f9e0079ad7 ""
+  "chomsky.aux" 1674764790 1525 bf21e7d353a81c51a53a2beaa3d238cd "pdflatex"
+  "chomsky.out" 1674764790 972 5e1372364886f8fed8dc0bdca097c822 "pdflatex"
+  "chomsky.tex" 1674764789 4665 74d105e72864126347c560df0f2d4ff1 ""
   (generated)
   "chomsky.aux"
   "chomsky.log"
