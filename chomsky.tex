@@ -58,7 +58,7 @@ This hierarchy contributed greatly to the study of formal language theory, progr
 \section{Chomsky Hierarchy}  
 
 The Chomsky Hierarchy is a containment hierarchy of classes of formal grammars.
-A containment hierarchy is a type of nested hierarchy, where certain classes \textit{are of} a similar class, but are \texit{not equivalent} to the similar class.
+A containment hierarchy is a type of nested hierarchy, where certain classes \textit{are of} a similar class, but are \textit{not equivalent} to the similar class.
 
 A good example that is listed on Wikipedia is:
 \textbf{Square is a Quadrilateral is a Polygon is a Shape}
@@ -68,14 +68,32 @@ Type-0 encapsulates Type-1, which encapsulates Type-2, which encapsulates Type-3
 
 \subsection{Regular Languages} 
 
+Type-3 generates \textbf{regular grammar}, which are exactly all languages that can be accepted by a finite state automaton. Type 3 should only be given in the form of A → a. 
+This means that the left side must have a single non-terminal symbol, and the right side must have a single terminal signal, which may be followed by a single non-terminal symbol. 
+The most obvious example is regex, which offers the ability to define tokens. This allows a company to parse resumes searching for specific terms, such as “python”, “java” and 
+“object oriented”, while discarding resumes that do not contain important keywords.
+
+
 \subsection{Context-Free Languages}
 
-\subsection{Context-Sensitive Languages} 
+Type-2 generates \textbf{context-free languages}. Of course, Type-2 must also be in Type-1 form. The left-hand side of production can only have one variable, and there is no restriction on $\beta$.
+The form is A → $\alpha$. A is a single non-terminal symbol, and $\beta$ is a string of symbols. Most speech falls into this category. Since nouns and their plurals can be recognized in a single
+non-deterministic finite automaton, then combined. An example is the singular form of (“The professor lectures to the class.” → Professor / Lectures) as opposed to the plural form of 
+(“The professors lecture to the class.” → Professors / Lecture).
+
+
+\subsection{Context-Sensitive Languages}
+
+Type-1 generates \textbf{context-sensitive languages}. Of course, Type-1 grammar should also be in Type-0 form, and the grammar production must be in the form of 
+$\alpha$A$\beta$ → $\alpha$$\gamma$$\beta$ That is, the count of the symbol in $\alpha$ is less than or equal to that in $\beta$. This also means that strings $\alpha$ and $\beta$ may be empty, but similarly to 
+Type-0, $\gamma$ cannot be empty. Although most languages are context-free, there are many situations where a list of matching tokens is necessary, such as the 
+statement "The square of 2, 3, and 4 are 4, 9 and 16, respectively." Here 2 and 4 are matched, 3 and 9 are matched, and 4 and 16 are matched.
+
 
 \subsection{Unrestricted Languages} 
 
-Type-0 is in the form of \textbf{unrestricted languages}, which means it includes \texit{all} formal grammars. They generate exactly all languages that can be recognized by a 
-Turing machine. Note that this is different from Turing complete, which is designated by programming languages, and \textit{not} formal languages. The form is $\alpha$→ $\gamma$. 
+Type-0 is in the form of \textbf{unrestricted languages}, which means it includes \textit{all} formal grammars. They generate exactly all languages that can be recognized by a 
+Turing machine. Note that this is different from Turing complete, which is designated by programming languages, and \textit{not} formal languages. The form is $\alpha$ → $\gamma$. 
 In Type-0, there must be at least one variable on the left side of production, meaning that $\gamma$ must not be empty. An unrestricted language isn't beneficial towards 
 communication, which means there are no good speech examples.
 
@@ -88,15 +106,21 @@ Grammar can be used to describe behavior of groups of speakers, grammar can be u
 entire group of individuals but also subsets within that group. It's interesting how grammar changes depending on what sample 
 of people you are looking at. Geography has an influence on the way that individuals speak.
 
+\medskip
+
 With regards to history, it is interesting that the ``earliest known grammar handbook is the \textit{Art of Grammar}'' was written
 by an ancient Greek scholar in 90 BC. Throughout history grammar has been based off of the grammar of other languages, each society
 basing it's grammar off of an older language, demonstrating that grammar that is used today have evolved from ancient languages.
 Grammar has also been a topic of study throughout many time periods including the Middle Ages.
 
+\medskip
+
 Grammar evolves with time and usage most notabily through the observation and documentation. Sentences that have slight variations in
 language can have rather large differences based on context. It is interesting to think that grammar has defined rules however, the 
 evolution of language changes the definition of such rules. Demonstrating that grammar rules are dicated by those who break grammar 
 rules. 
+
+\medskip
 
 There is a difference in grammar in an academic setting and in the real world, vernacular dialects and standard language respectively.
 
