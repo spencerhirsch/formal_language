@@ -71,15 +71,15 @@ Type-0 encapsulates Type-1, which encapsulates Type-2, which encapsulates Type-3
 Type-3 generates \textbf{regular grammar}, which are exactly all languages that can be accepted by a finite state automaton. Type 3 should only be given in the form of A → a. 
 This means that the left side must have a single non-terminal symbol, and the right side must have a single terminal signal, which may be followed by a single non-terminal symbol. 
 The most obvious example is regex, which offers the ability to define tokens. This allows a company to parse resumes searching for specific terms, such as “python”, “java” and 
-“object oriented”, while discarding resumes that do not contain important keywords.
+``object oriented”, while discarding resumes that do not contain important keywords.
 
 
 \subsection{Context-Free Languages}
 
 Type-2 generates \textbf{context-free languages}. Of course, Type-2 must also be in Type-1 form. The left-hand side of production can only have one variable, and there is no restriction on $\beta$.
 The form is A → $\alpha$. A is a single non-terminal symbol, and $\beta$ is a string of symbols. Most speech falls into this category. Since nouns and their plurals can be recognized in a single
-non-deterministic finite automaton, then combined. An example is the singular form of (“The professor lectures to the class.” → Professor / Lectures) as opposed to the plural form of 
-(“The professors lecture to the class.” → Professors / Lecture).
+non-deterministic finite automaton, then combined. An example is the singular form of (``The professor lectures to the class.” → Professor / Lectures) as opposed to the plural form of 
+(``The professors lecture to the class.” → Professors / Lecture).
 
 
 \subsection{Context-Sensitive Languages}
@@ -87,7 +87,7 @@ non-deterministic finite automaton, then combined. An example is the singular fo
 Type-1 generates \textbf{context-sensitive languages}. Of course, Type-1 grammar should also be in Type-0 form, and the grammar production must be in the form of 
 $\alpha$A$\beta$ → $\alpha$$\gamma$$\beta$ That is, the count of the symbol in $\alpha$ is less than or equal to that in $\beta$. This also means that strings $\alpha$ and $\beta$ may be empty, but similarly to 
 Type-0, $\gamma$ cannot be empty. Although most languages are context-free, there are many situations where a list of matching tokens is necessary, such as the 
-statement "The square of 2, 3, and 4 are 4, 9 and 16, respectively." Here 2 and 4 are matched, 3 and 9 are matched, and 4 and 16 are matched.
+statement ``The square of 2, 3, and 4 are 4, 9 and 16, respectively." Here 2 and 4 are matched, 3 and 9 are matched, and 4 and 16 are matched.
 
 
 \subsection{Unrestricted Languages} 
@@ -123,5 +123,8 @@ rules.
 \medskip
 
 There is a difference in grammar in an academic setting and in the real world, vernacular dialects and standard language respectively.
+Grammar is an essential part of structure of languages and it constantly evolving. There is a great deal of outside influence of grammar
+with regards to how much it differs by population. There is technically and incorrect way to use grammar based on written grammar rules,
+however, there is no improper way to use grammar as it is constantly changing and evolving.
 
 \end{document}
