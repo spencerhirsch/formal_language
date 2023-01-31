@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1675200446 "/Users/spencerhirsch/Documents/GitHub/formal_language/regular_languages.tex" "regular_languages.pdf" "regular_languages" 1675200446
-  "/Users/spencerhirsch/Documents/GitHub/formal_language/regular_languages.tex" 1675200446 1603 744ebfa85f1d5437759390ee5882138a ""
+["pdflatex"] 1675200501 "/Users/spencerhirsch/Documents/GitHub/formal_language/regular_languages.tex" "regular_languages.pdf" "regular_languages" 1675200501
+  "/Users/spencerhirsch/Documents/GitHub/formal_language/regular_languages.tex" 1675200500 1603 d6270e0b35c37ee22ceb862df9903e59 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -60,9 +60,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1674061236 2826446 c95caf68c56b67e62bd3e0f4499af8ae ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "regular_languages.aux" 1675200446 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
+  "regular_languages.aux" 1675200501 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
   "regular_languages.out" 0 -1 0 "pdflatex"
-  "regular_languages.tex" 1675200446 1603 744ebfa85f1d5437759390ee5882138a ""
+  "regular_languages.tex" 1675200500 1603 d6270e0b35c37ee22ceb862df9903e59 ""
   (generated)
   "regular_languages.aux"
   "regular_languages.log"
