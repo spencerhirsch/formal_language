@@ -1,8 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1675434920 "/home/lacka/repos/formal_language/regular_languages.tex" "regular_languages.pdf" "regular_languages" 1675434921
+["pdflatex"] 1675443861 "/home/lacka/repos/formal_language/regular_languages.tex" "regular_languages.pdf" "regular_languages" 1675443862
   "/etc/texmf/web2c/texmf.cnf" 1674451667 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/lacka/repos/formal_language/regular_languages.tex" 1675434919 3739 1b377db77f910019ce513afa482b09e2 ""
+  "/home/lacka/repos/formal_language/regular_languages.tex" 1675443861 4336 65c167ee6022df5a07b52b060505ea17 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm" 1136768653 1532 9162035f4e7176612125649e348e2195 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -19,6 +20,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb" 1248133631 36554 b67dc2cfa451409e100b3fcf5f506509 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
@@ -64,12 +66,14 @@
   "/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty" 1622581934 1618 786b14c5a3e144c3a51452d08232d18b ""
   "/usr/share/texlive/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
+  "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1636152094 2900 1537cc8184ad1792082cd229ecc269f4 ""
+  "/usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb" 1636152094 138258 6525c253f16cededa14c7fd0da7f67b2 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1674451704 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1674451732 2799164 589e1b7ba37e844d1d649930c2e0a324 ""
-  "regular_languages.aux" 1675434921 686 470fdebd29f279999e89f3533b8c7bc8 "pdflatex"
-  "regular_languages.out" 1675434920 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "regular_languages.tex" 1675434919 3739 1b377db77f910019ce513afa482b09e2 ""
+  "regular_languages.aux" 1675443862 686 470fdebd29f279999e89f3533b8c7bc8 "pdflatex"
+  "regular_languages.out" 1675443862 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "regular_languages.tex" 1675443861 4336 65c167ee6022df5a07b52b060505ea17 ""
   (generated)
   "regular_languages.aux"
   "regular_languages.log"

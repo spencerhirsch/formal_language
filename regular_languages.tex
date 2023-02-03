@@ -61,7 +61,21 @@
     
     \medskip
 
-    % Answer here
+    \-\hspace{0.5cm} A non-deterministic finite acceptor can also be defined with the same formal definition
+    of a deterministic finite accepter.
+    \[M = (Q, \Sigma, \delta, q_0, F)\]
+
+    \-\hspace{0.5cm} However an NFA has three main differences from a DFA.
+
+    \begin{itemize}
+        \item The range of $\delta$ is a subset of \textit{Q}. Meaning the range is $2^\delta$
+        \item $\lambda$ is allowed as input for the transition function $\delta(q_1, \lambda)$
+        \item The transfer function may equal an empty set. $\delta(q_i, a) = {\emptyset}$
+    \end{itemize}
+
+    % MORE TEXT HERE LATER
+
+
 
     \medskip
 
