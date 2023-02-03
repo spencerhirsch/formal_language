@@ -19,7 +19,48 @@
 
     \medskip
 
-    % Answer here
+    \-\hspace{0.5cm} Briefly a regular grammar extends from a formal grammar. A formal grammar is given 
+    by the definition of:
+    \[G = (V, T, S, P)\]
+    with
+    
+    \smallskip
+
+    \-\hspace{0.5cm} \textit{V}: A finite set of \textbf{variables}. \\
+    \-\hspace{0.5cm} \textit{T}: A finite set of \textbf{symbols}.  \\
+    \-\hspace{0.5cm} \textit{S}: $S \in V$ being a \textbf{special} symbol called the \textbf{start symbol}.    \\
+    \-\hspace{0.5cm} \textit{P}: Being a set of \textbf{productions}. 
+
+    \-\hspace{0.5cm} With productions showing how symbols from \textit{V}, and \textit{S} may be used to create \textit{strings}.
+    \[G = (\{S, A\}, \{a, b\}, S, P)\]
+    \-\hspace{0.5cm} With productions being: \\
+    \-\hspace{1.0cm} $S \Rightarrow ab$ \\
+    \-\hspace{1.0cm} $S \Rightarrow aS$ \\
+    \-\hspace{1.0cm} $S \Rightarrow bS$ \\
+    \-\hspace{1.0cm} $S \Rightarrow \lambda$
+
+    \-\hspace{0.5cm} Knowing this we can look at \textbf{regular grammars}
+
+    \begin{itemize}
+        \item \textbf{Strictly right-regular grammars}
+    
+        \medskip
+        
+        \-\hspace{0.5cm} These follow the production rule of $S \Rightarrow bA$ where 
+        non terminal symbols from \textit{V} go on the right hand side 
+        \item \textbf{Strictly left-regular grammars}
+        
+        \medskip
+
+        \-\hspace{0.5cm} These follow the production rule of $S \Rightarrow Ab$ where 
+        non terminal symbols from \textit{V} go on the left hand side 
+        \item \textbf{Extended regular grammars}
+        
+        \medskip
+
+        \-\hspace{0.5cm} These grammars will follow the production rules of either right, or left,
+        $S \Rightarrow Ab $, where $b \in \sum^*$.
+    \end{itemize}
 
     \medskip
 
