@@ -3,6 +3,7 @@
 \usepackage[margin=1in]{geometry}
 \usepackage{indentfirst}
 \usepackage{setspace} 
+\usepackage{subdepth}
 \doublespacing
 
 
@@ -147,7 +148,24 @@
 
     \medskip
 
-    % Answer here
+    \-\hspace{0.5cm} A regular expression can be constucted by repeatedly applying
+    recursive rules to primitive constituents. The algorithmic process is defined 
+    below.
+
+    \-\hspace{0.5cm} Let $\Sigma$ be a given alphabet. Apply the following steps:
+
+    \begin{enumerate}
+        \item $\emptyset$, $\lambda$, and $\alpha$ $\in$ $\Sigma$ are all regular
+        expressions. All of these are \textbf{primitive regular expressions}.
+        \item If \textit{r}\textsubscript{1} and \textit{r}\textsubscript{2} are
+        regular expressions, so are \textit{r}\textsubscript{1} + 
+        \textit{r}\textsubscript{2}, $\textit{r}\textsubscript{1} \cdot
+        \textit{r}\textsubscript{2}$, $r_1^*$, and (\textit{r}\textsubscript{1}).
+        \item A string is a regular expression iff it can be derived from the 
+        primitive regular expressions by a finite number of applications of the
+        rules in step (b).
+    \end{enumerate}
+
 
     \medskip
 
@@ -168,13 +186,13 @@
         \hline
         \textbf{Name} & \textbf{Section} \\
         \hline
-        Remington Greko &  \\
+        Remington Greko &  Question 5\\
         \hline
         Tyler Gutowski &  \\
         \hline
         Spencer Hirsch &  Question 2 and 4\\
         \hline
-        Thomas Johnson &  Question 3 and 1\\
+        Thomas Johnson &  Question 1 and 3\\
         \hline
     \end{tabular}
 \end{center}
