@@ -4,6 +4,8 @@
 \usepackage{indentfirst}
 \usepackage{setspace} 
 \usepackage{subdepth}
+\usepackage{graphicx}
+\graphicspath{{./images/}}
 \doublespacing
 
 
@@ -170,7 +172,11 @@
     \medskip
 
     \item \textbf{Confirm you know how to use operating system commands to find
-            regular expressions in a file.}
+            regular expressions in a file.}	\\
+	\medskip
+	\includegraphics{regex_proof} \\
+	The operating system command used, \textbf{grep -E "$\{$[[:digit:]]$\}$" regular\_languages.tex} uses \textbf{grep} (global regular expression print) with the parameter \textbf{-E}, which is shorthand for \textbf{--regex-extended}. The regex phrase \textbf{"$\{$[[:digit:]]$\}$"} is then searched, which is any numeral inside of curly braces. As shown on the four lines below the command, there were several instances of a numeral within curly braces, all of which were a part of \textbf{textsubscript$\{$$\}$}. \\
+
 
     \medskip
 
@@ -188,7 +194,7 @@
         \hline
         Remington Greko &  Question 5\\
         \hline
-        Tyler Gutowski &  \\
+        Tyler Gutowski &  Question 6\\
         \hline
         Spencer Hirsch &  Question 2 and 4\\
         \hline
