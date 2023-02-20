@@ -497,11 +497,11 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
-INPUT ./images//chat.png
-INPUT ./images//chat.png
-INPUT ./images//chat.png
-INPUT ./images//chat.png
 INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./images//chat.png
+INPUT ./images//chat.png
+INPUT ./images//chat.png
+INPUT ./images//chat.png
 INPUT chatgpt.aux
 INPUT ./chatgpt.out
 INPUT ./chatgpt.out

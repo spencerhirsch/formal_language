@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1676908119 "/Users/spencerhirsch/Documents/GitHub/formal_language/regular_expression_chat_gpt/chatgpt.tex" "chatgpt.pdf" "chatgpt" 1676908120
-  "/Users/spencerhirsch/Documents/GitHub/formal_language/regular_expression_chat_gpt/chatgpt.tex" 1676908119 823 234fb6234ffcbdee4044c44ccbc0dca7 ""
+["pdflatex"] 1676932824 "/Users/spencerhirsch/Documents/GitHub/formal_language/regular_expression_chat_gpt/chatgpt.tex" "chatgpt.pdf" "chatgpt" 1676932825
+  "/Users/spencerhirsch/Documents/GitHub/formal_language/regular_expression_chat_gpt/chatgpt.tex" 1676932824 1413 0e5046f17edbcdf4f5171d3088d7e637 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -74,9 +74,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1674061236 2826446 c95caf68c56b67e62bd3e0f4499af8ae ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "chatgpt.aux" 1676908120 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
+  "chatgpt.aux" 1676932825 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
   "chatgpt.out" 0 -1 0 "pdflatex"
-  "chatgpt.tex" 1676908119 823 234fb6234ffcbdee4044c44ccbc0dca7 ""
+  "chatgpt.tex" 1676932824 1413 0e5046f17edbcdf4f5171d3088d7e637 ""
   "images//chat.png" 1676774193 538376 2bc0e913d5efeb5a7fe8b2ebbdc32919 ""
   (generated)
   "chatgpt.aux"
